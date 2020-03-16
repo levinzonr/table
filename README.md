@@ -256,7 +256,7 @@ if(isYounger && existsInList && isStateX) {
 **if vs. when**
 Use `if` for binary checks. When there are more then two options consider using `when` instead
 
-<table>
+<table width="100%"
 <tr>
     <th>Do</th>
     <th>Don't</th>
@@ -310,6 +310,3 @@ if(item.getFollowers() == null || !item.getFollowers().contains(someId)) {
 
 follower = item.getFollowers().get(someId)
 ```
-table {
-    width:100%;
-}
