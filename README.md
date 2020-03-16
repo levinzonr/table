@@ -1,7 +1,7 @@
 
 <table width="100%">
 <tr>
-    <th style="color:red">Roses are <span style="color:red">red</span></th>
+    <th bgcolor="red">RED</th>
     <th>Don't</th>
   </tr>
 <tr>
