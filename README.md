@@ -1,8 +1,7 @@
 
 <table width="100%">
 <tr>
-    <th><font color='red'>test blue color font</font>
-</th>
+    <th><font color='red'>test blue color font</font></th>
     <th>Don't</th>
   </tr>
 <tr>
