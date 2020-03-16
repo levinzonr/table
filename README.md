@@ -1,6 +1,3 @@
-
-
-
 # Android style guide
 
  - [Package structure](#package-structure)
@@ -313,10 +310,6 @@ if(item.getFollowers() == null || !item.getFollowers().contains(someId)) {
 
 follower = item.getFollowers().get(someId)
 ```
-
-
-
-
 
 <style>
 table {
