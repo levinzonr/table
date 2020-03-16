@@ -310,9 +310,6 @@ if(item.getFollowers() == null || !item.getFollowers().contains(someId)) {
 
 follower = item.getFollowers().get(someId)
 ```
-
-<style>
 table {
     width:100%;
 }
-</style>
