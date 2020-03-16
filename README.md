@@ -1,7 +1,12 @@
 
 <table width="100%">
 <tr>
-    <th><font color='red'>test blue color font</font></th>
+    <th>
+    ```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+    </th>
     <th>Don't</th>
   </tr>
 <tr>
