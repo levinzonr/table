@@ -256,7 +256,7 @@ if(isYounger && existsInList && isStateX) {
 **if vs. when**
 Use `if` for binary checks. When there are more then two options consider using `when` instead
 
-<table width="100%"
+<table width="100%">
 <tr>
     <th>Do</th>
     <th>Don't</th>
