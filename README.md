@@ -258,7 +258,7 @@ Use `if` for binary checks. When there are more then two options consider using 
 
 <table width="100%">
 <tr>
-    <th>Do</th>
+    <th style="color:red">Do</th>
     <th>Don't</th>
   </tr>
 <tr>
