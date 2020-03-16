@@ -1,7 +1,7 @@
 
 <table width="100%">
 <tr>
-    <th bgcolor="red">RED</th>
+     <th style="background-color:red">RED</th>
     <th>Don't</th>
   </tr>
 <tr>
